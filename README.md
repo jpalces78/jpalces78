@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @jpalces78
-- 👀 I’m interested in ... learning front-end web development.
-- 🌱 I’m currently learning ... Javascript, HTML, CSS.
-- 💞️ I’m looking to collaborate on ... beginner web devlopment projects.
-- 📫 How to reach me ... jpalces78@gmail.com.
+👋 Hi! I'm Joshua, welcome to my GitHub. 📂
+I'm a Chicago based software engineer coding full-stack Javascript applications.
+🚧 I’m currently working on my portfolio site
+
+⚗️ I'm currently experimenting with Node.js
+
+🎯 I’m currently focusing on Full-Stack applications
+
+👩‍💻 View my live projects at www.jpalces.com
+
+💬 Ask me about molecular biology and tech
+
+📫 How to reach me jpman309@gmail.com
+
+👩‍🍳 Fun fact I'm a knockdown 3-point shooter
+
+Connect with me:
+
+
+Languages and Tools:
+css3 html5 javascript mongodb nodejs react express
 
 <!---
 jpalces78/jpalces78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
