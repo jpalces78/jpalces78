@@ -18,7 +18,7 @@ Connect with me:
 https://www.linkedin.com/in/jpalces78/ https://twitter.com/Tuenchi_Fisher
 
 Languages and Tools:
-css3 html5 javascript mongodb nodejs react express
+![image](https://user-images.githubusercontent.com/96431285/158198254-244948ef-91a0-4dc0-8d71-570537599d43.png)html5 javascript mongodb nodejs react express
 
 <!---
 jpalces78/jpalces78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
