@@ -14,7 +14,7 @@ I'm a Chicago based software engineer coding full-stack Javascript applications.
 
 👩‍🍳 Fun fact I'm a knockdown 3-point shooter
 
-Connect with me:
+Connect with me: <br />
 <a href="https://www.linkedin.com/in/jpalces78/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="auto" width="5%"></a> <a href="https://twitter.com/Tuenchi_Fisher"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" height="auto" width="5%"></a>
 
 Languages and Tools:
