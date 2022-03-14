@@ -6,7 +6,7 @@ I'm a Chicago based software engineer coding full-stack Javascript applications.
 
 🎯 I’m currently focusing on Full-Stack applications
 
-👩‍💻 View my live projects at www.jpalces.com
+👩‍💻 View my live projects at www.jpalces78.github.io
 
 💬 Ask me about molecular biology and tech
 
@@ -18,7 +18,7 @@ Connect with me:
 https://www.linkedin.com/in/jpalces78/ https://twitter.com/Tuenchi_Fisher
 
 Languages and Tools:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="auto" width="10%"/> html5 javascript mongodb nodejs react express
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="auto" width="1%"/> html5 javascript mongodb nodejs react express
 
 <!---
 jpalces78/jpalces78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
