@@ -4,7 +4,7 @@ I'm a Chicago based software engineer coding full-stack Javascript applications.
 
 ⚗️ I'm currently experimenting with Node.js
 
-🎯 I’m currently focusing on Full-Stack applications
+🎯 I’m currently focusing on freelance web development.
 
 👩‍💻 View my live projects at www.jpalces78.github.io
 
