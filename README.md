@@ -6,7 +6,7 @@ I'm a Chicago based software engineer coding full-stack Javascript applications.
 
 🎯 I’m currently focusing on freelance web development.
 
-👩‍💻 View my live projects at www.jpalces78.github.io
+👩‍💻 View my live projects at <a href="https://jpalces78.github.io/">www.jpalces78.github.io</a>
 
 💬 Ask me about molecular biology and tech
 
