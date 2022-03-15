@@ -26,7 +26,4 @@ Languages and Tools: <br />
 <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="reactjs" height="auto" width="10%"> </a>
 
 
-<!---
-jpalces78/jpalces78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
