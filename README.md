@@ -1,6 +1,6 @@
 👋 Hi! I'm Joshua, welcome to my GitHub. 📂
 I'm a Chicago based software engineer coding full-stack Javascript applications.
-🚧 I’m currently working on freelancing.
+🚧 I’m currently freelancing.
 
 ⚗️ I'm currently experimenting with Node.js
 
