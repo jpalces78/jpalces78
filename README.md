@@ -1,29 +1,41 @@
-👋 Hi! I'm Joshua, welcome to my GitHub. 📂
-I'm a Chicago based software engineer coding full-stack Javascript applications.
-🚧 I’m currently freelancing.
+<h1 align="center">Hi 👋, I'm Joshua Palces</h1>
+<h3 align="center">I am a Software Engineer from Chicago</h3>
 
-⚗️ I'm currently experimenting with Node.js
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpalces78&label=Profile%20views&color=0e75b6&style=flat" alt="jpalces78" /> </p>
 
-🎯 I’m currently focusing on freelance web development.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jpalces78" alt="jpalces78" /></a> </p>
 
-👩‍💻 View my live projects at <a href="https://jpalces78.github.io/">www.jpalces78.github.io</a>
+- 🔭 I’m currently working on **freelancing**
 
-💬 Ask me about molecular biology and tech
+- 🌱 I’m currently learning **Node.js and React**
 
-📫 How to reach me jpman309@gmail.com
+- 👯 I’m looking to collaborate on **freelance projects**
 
-👩‍🍳 Fun fact I'm a knockdown 3-point shooter
+- 👨‍💻 All of my projects are available at [https://jpalces78.github.io/](https://jpalces78.github.io/)
 
-Connect with me: <br />
-<a href="https://www.linkedin.com/in/jpalces78/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" height="auto" width="5%"></a> <a href="https://twitter.com/Tuenchi_Fisher"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" height="auto" width="5%"></a>
+- 💬 Ask me about **biotech**
 
-Languages and Tools: <br />
-<a href="https://en.wikipedia.org/wiki/CSS"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="auto" width="4.5%"></a> 
-<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="css3" height="auto" width="5%"> </a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" height="auto" width="5%"> </a>
-<a href="https://en.wikipedia.org/wiki/MongoDB"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" height="auto" width="18%"> </a>
-<a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" height="auto" width="8%"> </a>
-<a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://www.seekpng.com/png/full/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png" alt="reactjs" height="auto" width="10%"> </a>
+- 📫 How to reach me **jpman309@gmail.com**
 
+- 📄 Know about my experiences [https://jpalces78.github.io/resume](https://jpalces78.github.io/resume)
 
+- ⚡ Fun fact **I'm a knockdown 3-point shooter shooter**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/jpalces78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jpalces78" height="30" width="40" /></a>
+<a href="https://twitter.com/tuenchi_fisher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuenchi_fisher" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jpalces78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpalces78" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/tuenchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tuenchi" height="30" width="40" /></a>
+<a href="https://discord.gg/Tuenchi#4558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tuenchi#4558" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpalces78&show_icons=true&locale=en&layout=compact" alt="jpalces78" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpalces78&show_icons=true&locale=en" alt="jpalces78" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpalces78&" alt="jpalces78" /></p>
 
